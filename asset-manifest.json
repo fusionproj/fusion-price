@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.f2914400.chunk.css",
-    "main.js": "/static/js/main.07f54863.chunk.js",
-    "main.js.map": "/static/js/main.07f54863.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e5b82ed2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e5b82ed2.js.map",
-    "static/js/2.6862b685.chunk.js": "/static/js/2.6862b685.chunk.js",
-    "static/js/2.6862b685.chunk.js.map": "/static/js/2.6862b685.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a656ebaefca9b8f01a145bb138d5e5be.js": "/precache-manifest.a656ebaefca9b8f01a145bb138d5e5be.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.f2914400.chunk.css.map": "/static/css/main.f2914400.chunk.css.map"
+    "main.css": "/fusion-price/static/css/main.f2914400.chunk.css",
+    "main.js": "/fusion-price/static/js/main.6eadc67a.chunk.js",
+    "main.js.map": "/fusion-price/static/js/main.6eadc67a.chunk.js.map",
+    "runtime-main.js": "/fusion-price/static/js/runtime-main.7e80c8d8.js",
+    "runtime-main.js.map": "/fusion-price/static/js/runtime-main.7e80c8d8.js.map",
+    "static/js/2.a189c401.chunk.js": "/fusion-price/static/js/2.a189c401.chunk.js",
+    "static/js/2.a189c401.chunk.js.map": "/fusion-price/static/js/2.a189c401.chunk.js.map",
+    "index.html": "/fusion-price/index.html",
+    "precache-manifest.fb80291d354a34ea58a04b71aaaf15a1.js": "/fusion-price/precache-manifest.fb80291d354a34ea58a04b71aaaf15a1.js",
+    "service-worker.js": "/fusion-price/service-worker.js",
+    "static/css/main.f2914400.chunk.css.map": "/fusion-price/static/css/main.f2914400.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5b82ed2.js",
-    "static/js/2.6862b685.chunk.js",
+    "static/js/runtime-main.7e80c8d8.js",
+    "static/js/2.a189c401.chunk.js",
     "static/css/main.f2914400.chunk.css",
-    "static/js/main.07f54863.chunk.js"
+    "static/js/main.6eadc67a.chunk.js"
   ]
 }
